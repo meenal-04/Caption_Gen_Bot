@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-core
+langchain-huggingface
+python-dotenv
+python-telegram-bot
+langchain-groq
